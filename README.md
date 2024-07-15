@@ -2,15 +2,15 @@
 
 
 这是我近四年收集的钱包，打算卖出去，前一百个钱包单独卖。
-后面每30个钱包150$,都是经过测试的，基本没有什么问题。
+后面每30个钱包200$,都是经过测试的，基本没有什么问题。
 
 想要购买联系：https://t.me/GM_tyui
 
 
 ## wallet.dat addresses TABLE
 
-| #    | Wallet name         | Address             | Hunter |  | Partner | Update |
-|:-----|:--------------------|:--------------------|:-------|:-|:--------|:-------|
+| #    | Wallet name         | Address             | Hunter |  | Partner |
+|:-----|:--------------------|:--------------------|:-------|:-|:--------|
 | 1 | [12600.30130883.dat](https://github.com/phrutis/LostWallets/blob/main/Others/12600.30130883.csv) | [252 addresses](https://github.com/phrutis/LostWallets/blob/main/Others/12600.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 2 | [10000.00586203.dat](https://github.com/phrutis/LostWallets/blob/main/Others/10000.00586203.csv) | [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50% | :lock: | :three: | 09.06.2022 |
 | 3 | [7941.06429735.dat](https://github.com/phrutis/LostWallets/blob/main/Others/7941.06429735.csv) | [15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX](https://www.blockchain.com/btc/address/15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
