@@ -1,16 +1,15 @@
-# 丢失的钱包
+# Lost Wallets
 
-如果有感兴趣交换钱包的也是可以的。
-这是我近四年收集的钱包，打算卖出去，钱包里面有自己买的，也有自己客户的，都是经过测试的，基本没有什么问题。
+If you're interested in exchanging wallets, that's also possible.  
+These are wallets I’ve collected over the past four years, and I’m planning to sell them. Some of the wallets were purchased by me, while others belong to my clients. They have all been tested and are generally problem-free.
 
-想要购买联系：https://t.me/GM_tyui
+If you're interested in purchasing, contact me at: https://t.me/GM_tyui
 
+## Wallet Address List
 
-## 钱包地址列表
-
-| #    | 钱包名字                              | 钱包地址                        |
+| #    | name                              | address                        |
 |:-----|:--------------------------------------|:--------------------------------|
-| 1(已破解，不过不是我😭) | 12600.30130883.dat | 252 addresses | 
+| 1| 12600.30130883.dat | 252 addresses | 
 | 2 | [10000.00586203.dat](https://github.com/phrutis/LostWallets/blob/main/Others/10000.00586203.csv) | [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 
 | 3 | [7941.06429735.dat](https://github.com/phrutis/LostWallets/blob/main/Others/7941.06429735.csv) | [15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX](https://www.blockchain.com/btc/address/15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX) | 
 | 4 | 4000.dat | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 
